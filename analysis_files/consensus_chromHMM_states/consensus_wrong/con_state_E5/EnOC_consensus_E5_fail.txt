@@ -1,4 +1,0 @@
-#Split in new
-chr2	19221600	19221800
-#Split in new
-chr2	242744200	242744800

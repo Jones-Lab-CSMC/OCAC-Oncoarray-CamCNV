@@ -1,6 +1,0 @@
-#Split in new
-chr2	90477000	90478000
-#Split in new
-chr2	90479600	90480400
-#Partially deleted in new
-chr21	9645400	9646600

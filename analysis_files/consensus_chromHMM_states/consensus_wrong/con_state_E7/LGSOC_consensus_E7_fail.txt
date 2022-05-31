@@ -1,4 +1,0 @@
-#Split in new
-chr1	148577000	148577200
-#Split in new
-chr19	40391800	40393000

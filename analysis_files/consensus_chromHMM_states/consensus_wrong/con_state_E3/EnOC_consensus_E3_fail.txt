@@ -1,8 +1,0 @@
-#Split in new
-chr10	47769600	47770800
-#Split in new
-chr10	48958000	48958600
-#Partially deleted in new
-chr12	122580600	122581000
-#Split in new
-chr1	145091600	145093600

@@ -1,4 +1,0 @@
-#Partially deleted in new
-chr1	150037600	150038600
-#Split in new
-chr8	2075400	2076400

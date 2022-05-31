@@ -1,8 +1,0 @@
-#Partially deleted in new
-chr17	35696800	35697000
-#Partially deleted in new
-chr19	42400400	42401200
-#Partially deleted in new
-chr2	239831800	239832400
-#Partially deleted in new
-chr8	144939400	144947600

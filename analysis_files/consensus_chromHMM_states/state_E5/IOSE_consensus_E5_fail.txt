@@ -1,6 +1,0 @@
-#Split in new
-chr17	34511400	34511800
-#Split in new
-chr19	54599800	54600600
-#Partially deleted in new
-chr8	144300000	144301400
