@@ -100,8 +100,7 @@ awk 'BEGIN{OFS="\t"} (FNR==1||$1=="Gene"){next} {print}' $New_Folder/Tables/raml
 
 awk '($1=="Gene"){print}' $New_Folder/Tables/raml_results_overall_hgsoc_counts_sorted.txt | wc -l
 awk '($1=="Gene"){print}' $New_Folder/Tables/raml_results_overall_counts.txt | wc -l
-awk '($1=="Gene"){print}' $New_Folder/Tables/raml_results_hgsoc_counts.txt | wc -l # ISSUE FOR LATER
-
+awk '($1=="Gene"){print}' $New_Folder/Tables/raml_results_hgsoc_counts.txt | wc -l
 
 
 awk 'BEGIN{OFS="\t"} (FNR==1){next} {print}' $New_Folder/Tables/raml_results_overall_counts_both.txt $New_Folder/Tables/raml_results_hgsoc_counts_both.txt | sort -k 7n | awk 'BEGIN{OFS="\t"; print "Gene", "AMLstat", "factor1", "NumCases", "NumControls", "cnv_call", "AMLpvalue", "AnalysisSet"} {print}' >| $New_Folder/Tables/raml_results_overall_hgsoc_counts_both_sorted.txt
