@@ -1,0 +1,18 @@
+#Partially deleted in new
+chr1	521200	521800
+#Split in new
+chr1	13683000	13683800
+#Split in new
+chr10	49085000	49085800
+#Split in new
+chr14	106477800	106478400
+#Split in new
+chr19	54672200	54672800
+#Split in new
+chr2	87658000	87658600
+#Split in new
+chr9	44500000	44500800
+#Split in new
+chr9	46270200	46271200
+#Split in new
+chrUn_gl000228	118800	119400

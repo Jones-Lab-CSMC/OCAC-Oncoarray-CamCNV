@@ -1,0 +1,24 @@
+#Split in new
+chr1	13683000	13684000
+#Split in new
+chr1	144572400	144573400
+#Split in new
+chr10	49018200	49019200
+#Split in new
+chr10	49085000	49085600
+#Split in new
+chr14	106477800	106478200
+#Split in new
+chr15	82635200	83012200
+#Split in new
+chr17	34797200	34798200
+#Partially deleted in new
+chr19	42399800	42401000
+#Split in new
+chr19	54672000	54672800
+#Split in new
+chr9	44419600	44419800
+#Split in new
+chr9	44499800	44500800
+#Partially deleted in new
+chrX	7673800	7674800

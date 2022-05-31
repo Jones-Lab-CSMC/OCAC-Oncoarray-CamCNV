@@ -1,0 +1,12 @@
+#Partially deleted in new
+chr1	64547400	64547600
+#Partially deleted in new
+chr1	206592000	206592600
+#Partially deleted in new
+chr11	1144400	1144600
+#Partially deleted in new
+chr14	22881800	22883000
+#Split in new
+chr2	19221400	19221800
+#Partially deleted in new
+chr8	144300400	144300600

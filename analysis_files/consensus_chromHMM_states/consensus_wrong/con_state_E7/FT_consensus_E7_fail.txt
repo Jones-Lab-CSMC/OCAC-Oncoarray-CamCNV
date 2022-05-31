@@ -1,0 +1,2 @@
+#Partially deleted in new
+chr19	42400600	42401200

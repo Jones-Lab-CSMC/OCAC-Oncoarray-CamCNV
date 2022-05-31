@@ -1,0 +1,2 @@
+#Partially deleted in new
+chr12	122580600	122581000

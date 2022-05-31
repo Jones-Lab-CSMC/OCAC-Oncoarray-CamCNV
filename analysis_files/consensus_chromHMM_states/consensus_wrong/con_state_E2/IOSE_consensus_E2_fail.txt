@@ -1,0 +1,4 @@
+#Split in new
+chr1	144519800	144520600
+#Split in new
+chr1	146373400	146374800

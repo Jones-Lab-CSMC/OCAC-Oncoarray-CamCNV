@@ -1,0 +1,8 @@
+#Split in new
+chr1	144593800	144594800
+#Split in new
+chr1	145096000	145097600
+#Split in new
+chr1	146373400	146374800
+#Partially deleted in new
+chr1	149910600	149911000

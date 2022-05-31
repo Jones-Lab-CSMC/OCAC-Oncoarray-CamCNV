@@ -1,0 +1,36 @@
+#Split in new
+chr1	144312800	144313000
+#Split in new
+chr1	144331800	144335200
+#Split in new
+chr1	146704800	146705400
+#Split in new
+chr1	148761600	148762200
+#Split in new
+chr1	148765400	148765800
+#Partially deleted in new
+chr1	205922000	205922800
+#Split in new
+chr10	48956800	48957800
+#Split in new
+chr10	48958600	48960200
+#Split in new
+chr10	49068200	49069000
+#Split in new
+chr10	49092400	49095600
+#Split in new
+chr17	81048200	81048400
+#Split in new
+chr19	54676000	54676400
+#Partially deleted in new
+chr3	195286800	195287200
+#Partially deleted in new
+chr8	48129600	48130600
+#Partially deleted in new
+chr8	144300000	144300600
+#Split in new
+chr9	44500800	44501200
+#Split in new
+chr9	65534600	65535200
+#Partially deleted in new
+chrX	153754800	153755000
